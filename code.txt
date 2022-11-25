@@ -1,7 +1,5 @@
 This is my code
+This code is in gitclass repo
+This code is in main branch
+This code is in dev branch
 This code is in arvi branch
-This is added in gitclass repo
-This is need to conflit
-line 5
-line 6
-
